@@ -4,7 +4,7 @@ end
 end
 
 new_number = []
-array.each
+array.each do |
 
 
 
