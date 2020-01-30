@@ -4,7 +4,8 @@ end
 end
 
 def square_array(array)
-  |
+  new_array = []
+  
 
 
 
