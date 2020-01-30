@@ -3,7 +3,6 @@ array.each do |numbers|
 end
 end
 
-new_numbers**
 
 
  
