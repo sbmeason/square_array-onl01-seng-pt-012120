@@ -3,8 +3,8 @@ array.each do |number|
 end
 end
 
-new_number = []
-array.each do |
+def square_array(array)
+  |
 
 
 
